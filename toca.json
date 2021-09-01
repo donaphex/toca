@@ -28,9 +28,9 @@
 	
 	"whichAds":1,
 
-	"isLastPageShow":true,
+	"isLastPageShow":false,
 	
-	"is_pop_up_enable":true,
+	"is_pop_up_enable":false,
 	"pop_up_title":"New Toca Life",
 	"pop_up_image_url":"https://play-lh.googleusercontent.com/YTzxbgZGksnYetrA3A2CoZvNzsr83zkidx03ljBFLgrNhi7m90qY6dKs7nN7TRs2Ops",
 	"pop_up_button_text":"Subscribe",
