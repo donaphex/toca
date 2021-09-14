@@ -28,7 +28,7 @@
 	
 	"whichAds":2,
 
-	"isLastPageShow":true,
+	"isLastPageShow":false,
 	
 	"is_pop_up_enable":false,
 	"pop_up_title":"New Toca Life",
